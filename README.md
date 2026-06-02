@@ -1,2 +1,15 @@
-# RemoteCam
-RemoteCam - Lightweight C2 tool for remote webcam capture over TCP
+# RemoteCam - Simple Camera Capture Tool
+
+Lightweight client-server tool for remote webcam capture. For educational and authorized security testing only.
+
+## Features
+- Remote camera trigger
+- Image transfer over TCP  
+- Simple command protocol
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/RemoteCam.git
+cd RemoteCam
+pip install -r requirements.txt
