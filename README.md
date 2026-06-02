@@ -1,6 +1,6 @@
 # RemoteCam - Simple Camera Capture Tool
 
-Lightweight client-server tool for remote webcam capture. For educational and authorized security testing only.
+Lightweight client-server tool for remote webcam capture.
 
 ## Features
 - Remote camera trigger
